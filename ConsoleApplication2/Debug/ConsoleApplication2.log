@@ -1,0 +1,9 @@
+﻿  Source.cpp
+Source.cpp(294): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+Source.cpp(364): warning C4018: '<': signed/unsigned mismatch
+Source.cpp(378): warning C4018: '<': signed/unsigned mismatch
+Source.cpp(389): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+Source.cpp(500): warning C4018: '<': signed/unsigned mismatch
+Source.cpp(508): warning C4018: '<': signed/unsigned mismatch
+Source.cpp(516): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication2.vcxproj -> C:\Users\Minoj\source\repos\ConsoleApplication2\Debug\ConsoleApplication2.exe
